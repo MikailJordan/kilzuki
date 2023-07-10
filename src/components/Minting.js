@@ -190,7 +190,7 @@ export default function Minting() {
                         </div>
                     ) : null}
                     <div className="text-center">
-                        <h2 className="font-semibold text-xl">6666 Kilzuki ready to Kill. 300 Traits created in just 1 day due to stress because the price movement.</h2>
+                        <h2 className="font-semibold text-xl">Enter the realm of Kilzuki, where every step leads to a deadly thrill.</h2>
                         <p className="mt-8 text-sm">666 NFTs are free to mint. 721A Verified Contract.</p>
                     </div>
                     <div className="flex justify-center mt-7">
